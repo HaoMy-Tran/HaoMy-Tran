@@ -1,5 +1,7 @@
 Hi, I’m Hao My
+
 I’m interested in Data Analysis and Data Visualization.
+
 Love connecting with people.
 
 <!---
