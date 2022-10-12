@@ -1,4 +1,4 @@
-Hi, I’m Hao My
+Hi, I’m Hao 
 
 I’m interested in Data Analysis and Data Visualization.
 
