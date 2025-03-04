@@ -1,6 +1,6 @@
 Hi, I’m Hao 
 
-I’m interested in Data Analysis and Data Visualization.
+I’m a passionate Data Analyst with a deep enthusiasm for uncovering insights and telling compelling stories through data. I believe in the power of data to transform businesses, improve decision-making, and create meaningful impact across industries.
 
 Love connecting with people.
 
