@@ -1,4 +1,4 @@
-Hi, I’m Hao 
+Hi, I’m Hao <br>
 With a deep enthusiasm for uncovering insights and telling compelling stories through data, I believe in the power of data to transform businesses, improve decision-making, and create meaningful impact across industries.
 
 <!---
